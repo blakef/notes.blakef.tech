@@ -1,0 +1,15 @@
+baseURL = "https://notes.blakef.tech/"
+languageCode = "en-gb"
+
+title = "BF Notes"
+theme = "hugo-theme-learn"
+
+[params]
+    editURL = "https://github.com/blakef/notes.blakef.tech"
+    themeVariant = "blue"
+    description = "Holiday Project Notes"
+    author = "Blake Friedman"
+    
+[outputs]
+    home = [ "HTML", "RSS", "JSON"]
+
